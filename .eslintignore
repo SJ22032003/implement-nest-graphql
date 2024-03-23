@@ -1,2 +1,3 @@
 src/migrations/*
 src/graphql/*
+tsconfig.json
